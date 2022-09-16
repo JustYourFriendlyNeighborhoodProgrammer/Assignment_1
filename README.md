@@ -15,7 +15,7 @@ Write a C++ program that can read data (let’s say file that has 10 lines,
 2. A function that can modify the value of an integer when called with the index
  of the integer in the array and return the new value and old value back to the user.
 
-![image](https://user-images.githubusercontent.com/83984148/190803668-c858cc09-9145-4e1b-a1c8-1fa9638c5a27.png)
+![190803668-c858cc09-9145-4e1b-a1c8-1fa9638c5a27 (2)](https://user-images.githubusercontent.com/83984148/190821186-6b7c8674-5c35-4286-ba49-a65c4133b8b8.png)
 
 3. A function that adds a new integer to the end of the array.
 
