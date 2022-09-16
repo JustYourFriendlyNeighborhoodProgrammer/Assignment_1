@@ -26,17 +26,18 @@ int main(){
     cin >> temp;
     cout << "\n";
     doc.modifyInt(temp);
-
+    cout << "\n";
     cout << "Add a integer to the array." << endl;
     cin >> temp;
     cout << "\n";
     doc.newInt(temp);
-
+    cout << "\n";
     cout << "Remove a cell form the array." << endl;
     cout << "Enter a index (0~"<< array_size << ")." << endl;
     cin >> temp;
     cout << "\n";
     doc.removeInt(temp);
+    cout << "\n";
 
     return 0;
 }
@@ -84,6 +85,7 @@ void header::checkInt(int num) {
         }
     }
     cout << num << " was not in the array." << "\n" << endl; // if integer is not present return error message
+
 }
 
 // modifies the value of an integer in the array when called with the index of the integer in the array.
@@ -96,12 +98,28 @@ void header:: modifyInt (int index) {
     my_array[index]= num; // replaces the old integer in the array with the desired new integer
     cout << "The new integer in the cell " << my_array[index] << "\n" << endl; // shows new integer in the array at that specified index
 
+    for (int i = 0; i < array_size; i++) {
+        cout << my_array[i] << " ";
+        if ((i+1) % 10 == 0)
+        {
+            cout << "\n";
+        } 
+    }    
+
 }
 
 // adds a new integer to the end of the array.
 void header:: newInt(int num) {
     resizeArray(num,array_size); // adds a integer to the end of the array and increase the array own size
 
+    for (int i = 0; i < array_size; i++) {
+        cout << my_array[i] << " ";
+        if ((i+1) % 10 == 0)
+        {
+            cout << "\n";
+        } 
+    }    
+    cout << "\n";
 }
 
 // intakes an index of an array and removes the integer corresponding to said index.
@@ -120,4 +138,12 @@ void header:: removeInt (int index) {
 	my_array = temporary_array; // reassigns my_array with its contents and the new added integer
     array_size--; // decrements my_array size 
 
+
+    for (int i = 0; i < array_size; i++) {
+        cout << my_array[i] << " ";
+        if ((i+1) % 10 == 0)
+        {
+            cout << "\n";
+        } 
+    }    
 }
