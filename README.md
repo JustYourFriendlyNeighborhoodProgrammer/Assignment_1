@@ -17,8 +17,10 @@ Write a C++ program that can read data (let’s say file that has 10 lines,
 
 ![image](https://user-images.githubusercontent.com/83984148/190803668-c858cc09-9145-4e1b-a1c8-1fa9638c5a27.png)
 
-
 3. A function that adds a new integer to the end of the array.
+
+![image](https://user-images.githubusercontent.com/83984148/190806805-1779f0ad-3464-44bd-8391-616ae7112bf9.png)
+
 
 4. A function which intakes an index of an array and remove
  the integer corresponding to that index.
