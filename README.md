@@ -14,3 +14,21 @@ Write a C++ program that can read data (let’s say file that has 10 lines,
 
 4. A function which intakes an index of an array and remove
  the integer corresponding to that index.
+
+
+Submission guidelines:
+
+1)	You should have a header file and .cpp file.
+ The header file should provide the function declaration
+ and .cpp file should have implementation details.
+
+2)	All the functionality of the program should be implemented as functions and methods.
+
+3)	The code should be well commented.
+
+4)	Create a report (readme file) that contains 
+ instruction on how to run the code and screen shots of the outputs
+
+5)	Upload your report and code files to GitHub.
+
+6)	Submit the GitHub link on Canvas by due date. 
