@@ -25,6 +25,9 @@ Write a C++ program that can read data (let’s say file that has 10 lines,
 4. A function which intakes an index of an array and remove
  the integer corresponding to that index.
 
+![image](https://user-images.githubusercontent.com/83984148/190819369-53a92689-b309-49d0-9efc-858d3bcaa79b.png)
+
+
 
 Submission guidelines:
 
