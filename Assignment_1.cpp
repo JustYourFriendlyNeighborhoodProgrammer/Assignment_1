@@ -104,7 +104,7 @@ void header::resizeArray(int num, int &old_array_size, int holder) {
 
 	delete[] my_array; // do I really need to explain this part (deletes my_array)
 	my_array = temporary_array; // reassigns my_array with its contents and the new added integer
-    array_size--; // decrements my_array size 
+    	old_array_size--; // decrements my_array size 
 
     }
 }
