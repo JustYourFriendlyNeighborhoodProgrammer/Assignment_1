@@ -2,8 +2,8 @@
 
 Q1: A way to indicate an error, especially if there are several possible errors in code, is through the use of exceptions. Exceptions are used to signal that an error has occurred. You can insert code in your program that throws an exception when a particular kind of error occurs. An exception handler allows the user to catch or handle the exception. To avoid uncaught exceptions, you write a try block that can throw an exception and follow it with a catch block that catches the exception and handles it. Using the array code from assignment 1 perform the following:
 1)	(5 points) Add a try and catch blocks (refer to the slide 53 of chapter 2) to the user inputs for the following functions from assignment 1: 
-	A function that can modify the value of an integer when called with the index of the integer in the array and return the new value and old value back to the user.
-	A function that adds a new integer to the end of the array
+- A function that can modify the value of an integer when called with the index of the integer in the array and return the new value and old value back to the user.
+-	A function that adds a new integer to the end of the array
 
 
 
