@@ -125,7 +125,8 @@ int Professional::vacationDays() const
 Nonprofessional::Nonprofessional()
 {
     string temp, temp2;
-    long num, num2;
+    long num;
+    double num2, num3;
     cout << "Running..." << endl;
     cout << "what is your first name:";
     cin >> temp;
@@ -136,10 +137,10 @@ Nonprofessional::Nonprofessional()
     cin >> num;
     setId(num);
     cout << "How much do you make per hour: ";
-    cin >> num;
-    cout << "How many hours have you worked the past two weeks: ";
     cin >> num2;
-    setSalary(static_cast<double>(num),static_cast<double>(num2));
+    cout << "How many hours have you worked the past two weeks: ";
+    cin >> num3;
+    setSalary(num2,num3);
 
 }
 
