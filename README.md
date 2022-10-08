@@ -12,6 +12,8 @@ a.	Use an abstract class Employee to store information common to all employees a
 b.	 Define derived classes Professional and Nonprofessional. Create instance for them. 
 c.	Test your classes.
 
+![image](https://user-images.githubusercontent.com/83984148/194679302-7618854e-8629-4c34-a62a-c6a6a92d28a5.png)
+![image](https://user-images.githubusercontent.com/83984148/194679419-0eec1c74-3add-4d95-aed0-74b9b7e11df4.png)
 
 Submission guidelines:
 
