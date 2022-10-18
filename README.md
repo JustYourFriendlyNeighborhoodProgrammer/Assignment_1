@@ -5,6 +5,11 @@ Q1: A way to indicate an error, especially if there are several possible errors 
 - A function that can modify the value of an integer when called with the index of the integer in the array and return the new value and old value back to the user.
 -	A function that adds a new integer to the end of the array
 
+![image](https://user-images.githubusercontent.com/83984148/196441356-1265122c-7cc8-4ee8-938b-7bf6754a9fbd.png)
+![image](https://user-images.githubusercontent.com/83984148/196441509-39334210-0c59-48ed-8e3f-567807de0db4.png)
+![image](https://user-images.githubusercontent.com/83984148/196441646-28e52acd-dba4-4930-a827-ea85e8ac142e.png)
+![image](https://user-images.githubusercontent.com/83984148/196441714-2e200a53-12f1-42c3-ad99-3e5ddcd0effc.png)
+![image](https://user-images.githubusercontent.com/83984148/196441990-06a115bc-113d-4e1e-8d1e-6386b0b7e8d3.png)
 
 
 2)	(20 points) A company has two different kinds of employees: professional and nonprofessional. Generally, professional employees have a monthly salary, whereas nonprofessional employees are paid an hourly rate. Similarly, professional employees have a certain number of days of vacation, whereas nonprofessional employees receive vacation hours based on the number of hours they have worked. The amount contributed for health insurance is also different for each kind of employee. 
