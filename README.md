@@ -11,9 +11,9 @@ palindrome.
 
 
 3)	Draw an expression tree corresponding to each of the following:
-a)	Inorder traversal is:  x / y + 3 * b / c  
-b)	Postorder traversal is:  x y z + a b – c * / – 
-c)	Preorder traversal is:  * + a – x y / c d 
+  a)	Inorder traversal is:  x / y + 3 * b / c  
+  b)	Postorder traversal is:  x y z + a b – c * / – 
+  c)	Preorder traversal is:  * + a – x y / c d 
 
 
 
