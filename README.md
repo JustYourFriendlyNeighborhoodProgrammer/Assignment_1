@@ -9,9 +9,11 @@
 right to left. Write a recursive function that determines whether its argument string is a
 palindrome.
 
+![image](https://user-images.githubusercontent.com/83984148/204405165-a60b7d31-3b25-4f77-80b0-d94306319271.png)
+![image](https://user-images.githubusercontent.com/83984148/204405265-09f52be9-9b71-4968-9ba1-83011c1ad45c.png)
 
 
-3)	Draw an expression tree corresponding to each of the following:
+3)	Draw an expression tree corresponding to each of the following: (look at the linked jpg)
 
     a)	Inorder traversal is:  x / y + 3 * b / c 
     
@@ -21,7 +23,7 @@ palindrome.
 
 
 
-4)	The to_string method generates a string representing a preorder traversal in which each local root is on a separate line. If a subtree is empty, the string "NULL" is displayed. Considered the output of a to_string method below and  show the tree that would be built by the following data lines. Is the resulting tree a binary search tree, a full tree, and/or a complete tree?
+4)	The to_string method generates a string representing a preorder traversal in which each local root is on a separate line. If a subtree is empty, the string "NULL" is displayed. Considered the output of a to_string method below and  show the tree that would be built by the following data lines. Is the resulting tree a binary search tree, a full tree, and/or a complete tree? (look at the linked jpg)
 
 30 
 15 
@@ -50,6 +52,8 @@ NULL
 •	Write a C++ method that outputs the data stored in stateDataMap. 
 •	Write a C++ statement that changes the capital of California to Los Angeles 
 •	Write a C++ method that outputs the capitalName using the stateName which will be entered by the user. 
+
+![image](https://user-images.githubusercontent.com/83984148/204405522-9cc420db-e823-4a20-9efd-65227cb194ab.png)
 
 
 
