@@ -28,18 +28,19 @@ int main() {
     printf("Enter a string to see whether or not it is a palindrome. \n");
     scanf("%[^\n]s", str);
     temp = str;
-    
+    // using the bool palindrome function to determine if the strings is a palindrome or not and print the corresponding output
     if (palindrome(temp, 0, temp.length() - 1)) {
         printf("The string is a palindrome!");
     } else {
         printf("the string is not a palindrome.");
     }
-    
+    // pause before ending program 
     printf("\n");
     system("pause");
     return 0;
 }
 
+// recursive function that determines whether its argument string is a palindrome 
 bool palindrome(string word, int i, int j)
 {
     if (word.at(i++) == word.at(j--)) {
