@@ -21,6 +21,7 @@ palindrome.
 
 
 4)	The to_string method generates a string representing a preorder traversal in which each local root is on a separate line. If a subtree is empty, the string "NULL" is displayed. Considered the output of a to_string method below and  show the tree that would be built by the following data lines. Is the resulting tree a binary search tree, a full tree, and/or a complete tree?
+
 30 
 15 
 4 
