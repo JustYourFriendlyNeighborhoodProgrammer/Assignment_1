@@ -2,6 +2,7 @@
 
 1)	 Write a new queue function called move_to_rear that moves the element currently at the front of the queue to the rear of the queue. The element that was second in line will be the new front element. Do these using functions push, front, and pop.
 
+![image](https://user-images.githubusercontent.com/83984148/204405017-2844a06d-70d2-492c-bc65-a99f7bafaea8.png)
 
 
 2)	As discussed in Chapter 5, a palindrome is a word that reads the same left to right as
