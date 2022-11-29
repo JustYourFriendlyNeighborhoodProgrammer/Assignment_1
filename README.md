@@ -13,7 +13,7 @@ palindrome.
 ![image](https://user-images.githubusercontent.com/83984148/204405265-09f52be9-9b71-4968-9ba1-83011c1ad45c.png)
 
 
-3)	Draw an expression tree corresponding to each of the following: (look at the linked jpg)
+3)	Draw an expression tree corresponding to each of the following: (look at the linked png)
 
     a)	Inorder traversal is:  x / y + 3 * b / c 
     
@@ -23,7 +23,7 @@ palindrome.
 
 
 
-4)	The to_string method generates a string representing a preorder traversal in which each local root is on a separate line. If a subtree is empty, the string "NULL" is displayed. Considered the output of a to_string method below and  show the tree that would be built by the following data lines. Is the resulting tree a binary search tree, a full tree, and/or a complete tree? (look at the linked jpg)
+4)	The to_string method generates a string representing a preorder traversal in which each local root is on a separate line. If a subtree is empty, the string "NULL" is displayed. Considered the output of a to_string method below and  show the tree that would be built by the following data lines. Is the resulting tree a binary search tree, a full tree, and/or a complete tree? (look at the linked png)
 
 30 
 15 
