@@ -18,7 +18,6 @@ Declare the map container stateDataMap to store pairs of the form (stateName,cap
 #include <iostream>
 #include <map>
 #include <string>
-#include <iterator>
 
 using namespace std;
 
